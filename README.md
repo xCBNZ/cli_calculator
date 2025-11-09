@@ -24,11 +24,11 @@ Simple **Command-Line Calculator** written in **C** that supports basic arithmet
 
 
 ## What I Learned
-How to read user input and handle invalid input in C.
-Implementing basic arithmetic operations using Switch Cases.
-Handling errors, such as division by zero.
-Compiling and running a C program from the command line.
-Basics of version control with Git, including adding, committing, and pushing changes.
+- How to read user input and handle invalid input in C.
+- Implementing basic arithmetic operations using Switch Cases.
+- Handling errors, such as division by zero.
+- Compiling and running a C program from the command line.
+- Basics of version control with Git, including adding, committing, and pushing changes.
 
 ## Contributing
 
